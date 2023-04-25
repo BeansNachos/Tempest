@@ -219,8 +219,4 @@
     margin-right: calc(((100% - 340px) / 2) + 60px);
   }
 
-  .u-section-2 .u-group-elements-1 {
-    width: 340px;
-    margin-left: calc(((100% - 340px) / 2));
-  }
 }
